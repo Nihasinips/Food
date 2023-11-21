@@ -20,8 +20,8 @@ function App() {
   return (
      <div className='App'>
      <Auth0Provider
-        domain="dev-oo5zryoy57r15usb.us.auth0.com"
-        clientId="hserRkEodNw4qu0BJeAsjCgu5NY9hlDh"
+        domain="dev-gmcpbcmk3lqwb4dp.us.auth0.com"
+        clientId="dagVrMd58Nr5NXz5DsHvzTnVuE91N2MK"
         authorizationParams={{
           redirect_uri: window.location.origin
         }}
